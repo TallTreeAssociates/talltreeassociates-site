@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420">
+  <rect width="420" height="420" fill="#122C4A"/>
+  <defs>
+    <g id="pc">
+      <path d="M0,0 C 9,-5 18,-7 27,-5" />
+      <path d="M0,0 C 10,-1 19,1 27,6" />
+      <path d="M0,0 C 8,3 15,8 20,15" />
+      <path d="M0,0 C 5,6 7,12 6,19" />
+    </g>
+  </defs>
+  <g transform="translate(130,40)">
+    <g fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M77,348 C 76,270 75,190 75,132 C 75,116 75,104 76,92" />
+      <path d="M76,124 C 67,114 58,108 48,104" />
+      <path d="M77,118 C 86,109 96,102 108,99" />
+      <use href="#pc" transform="translate(68,58) rotate(255) scale(0.8)" />
+      <use href="#pc" transform="translate(82,56) rotate(285) scale(0.8)" />
+      <use href="#pc" transform="translate(70,72) rotate(210) scale(0.75)" />
+      <use href="#pc" transform="translate(80,70) rotate(330) scale(0.75)" />
+      <use href="#pc" transform="translate(75,48) rotate(270) scale(0.7)" />
+      <use href="#pc" transform="translate(50,66) rotate(220) scale(0.72)" />
+      <use href="#pc" transform="translate(100,64) rotate(325) scale(0.72)" />
+      <use href="#pc" transform="translate(44,84) rotate(200) scale(0.55)" />
+      <use href="#pc" transform="translate(107,80) rotate(345) scale(0.55)" />
+      <use href="#pc" transform="translate(58,92) rotate(235) scale(0.5)" />
+      <use href="#pc" transform="translate(94,90) rotate(310) scale(0.5)" />
+      <use href="#pc" transform="translate(60,38) rotate(225) scale(0.6)" />
+      <use href="#pc" transform="translate(90,36) rotate(310) scale(0.6)" />
+      <use href="#pc" transform="translate(75,26) rotate(268) scale(0.55)" />
+    </g>
+  </g>
+</svg>
